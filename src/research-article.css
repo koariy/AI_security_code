@@ -102,3 +102,6 @@ body{font-size:18px;line-height:1.7}
 .ra-ide-caption code{color:#6ce0b0;font:9px var(--ra-mono)}
 @media(max-width:900px){.ra-expert-grid{grid-template-columns:1fr}.ra-expert-card{grid-template-columns:76px minmax(0,1fr)}.ra-expert-photo{min-height:100px}.ra-asset-heading{align-items:flex-start;flex-direction:column;gap:8px}.ra-asset-heading>p{max-width:none}.ra-ide-gallery{grid-template-columns:1fr}}
 @media(max-width:480px){.ra-visual-assets{padding:24px 0}.ra-expert-card{grid-template-columns:64px minmax(0,1fr);gap:10px;padding:10px}.ra-expert-photo{min-height:90px}.ra-expert-copy blockquote{font-size:11px}.ra-ide-body pre{font-size:9px}.ra-ide-body{grid-template-columns:28px minmax(0,1fr)}.ra-ide-sidebar{padding:12px 8px}}
+
+/* Connected repository image assets */
+.ra-brand-mark img{display:block;width:100%;height:100%;object-fit:contain;border-radius:inherit}.ra-hero{background-position:center top;background-size:cover;background-repeat:no-repeat}.ra-expert-photo{border-style:solid;padding:0}.ra-expert-photo img{display:block;width:100%;height:100%;min-height:112px;object-fit:cover;border-radius:inherit}.ra-ide-image{padding:0;overflow:hidden}.ra-ide-image>img{display:block;width:100%;height:auto;object-fit:cover}
