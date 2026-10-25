@@ -1,1 +1,1 @@
-import "./dashboard.jsx";
+import "./research-article.jsx";
