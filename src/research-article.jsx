@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
-import { ArrowDownRight, ArrowRight, ArrowUpRight, Check, ChevronRight, CircleAlert, Clock3, Code2, FileCode2, Pause, Play, RotateCcw, Shield, ShieldCheck, Terminal, X, Languages } from "lucide-react";
+import { ArrowDownRight, ArrowRight, ArrowUpRight, Check, ChevronRight, CircleAlert, Clock3, Code2, FileCode2, Image as ImageIcon, Pause, Play, RotateCcw, Shield, ShieldCheck, Terminal, X, Languages } from "lucide-react";
 import "./research-article.css";
 
 const copy = {
