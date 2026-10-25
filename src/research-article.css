@@ -105,3 +105,6 @@ body{font-size:18px;line-height:1.7}
 
 /* Connected repository image assets */
 .ra-brand-mark img{display:block;width:100%;height:100%;object-fit:contain;border-radius:inherit}.ra-hero{background-position:center top;background-size:cover;background-repeat:no-repeat}.ra-expert-photo{border-style:solid;padding:0}.ra-expert-photo img{display:block;width:100%;height:100%;min-height:112px;object-fit:cover;border-radius:inherit}.ra-ide-image{padding:0;overflow:hidden}.ra-ide-image>img{display:block;width:100%;height:auto;object-fit:cover}
+
+/* Requested visual refinements */
+.ra-hero{background-image:none!important}.ra-expert-disclaimer{margin:12px 0 0;color:#9ca3af;font-size:12px;line-height:1.6}.ra-footer-notes{display:flex;flex-direction:column;gap:8px;max-width:720px}.ra-footer-notes p{margin:0}.ra-footer-notes p+p{color:#8b93a3;font-size:11px;line-height:1.6}.ra-footer{align-items:flex-start}
